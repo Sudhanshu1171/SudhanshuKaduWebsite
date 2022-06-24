@@ -1,0 +1,159 @@
+body{
+  background-color: #FFFFFF;
+  padding: 0px;
+  margin: 0px;
+}
+h1{
+  font-family: 'General Sans', sans-serif;
+  text-transform: uppercase;
+  font-size: 40px;
+}
+p{
+  font-family: 'Bitter', serif;
+  font-size: 16px;
+}
+
+.navLink{
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #262626;
+}
+img{
+  width: 467px;
+  height:467px;
+}
+hr{
+  border: 4px solid  #FFFFFF;
+  border-radius: 5px;
+}
+.services{
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+  font-size: 40px;
+}
+.myNav{
+  background-color: #FFFFFF;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 100px;
+  margin-right: 100px;
+
+}
+.skillPara{
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+  font-size: 20px;
+}
+.myListItem{
+  padding-left: 25px;
+  padding-left: 25px;
+}
+.logo{
+font-family: 'Eczar', serif;
+font-size: 32px;
+color: #0455C0;
+text-decoration: none;
+}
+.servLink{
+  color: #FFFFFF;
+
+}
+.skillIcon{
+  width: 80px;
+  height: 80px;
+
+}
+.secondSection{
+  padding-top: 56px;
+background-color: #0455C0;
+color:  #FFFFFF;
+}
+.main1{
+  padding-right: 347px;
+}
+.main{
+  padding-top: 84px;
+}
+.maintxt{
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+.two1{
+  padding-right: 130px;
+}
+.services li{
+  margin-bottom: 8%;
+}
+.myBtn{
+  border-radius: 0px;
+}
+.footer{
+  text-align: center;
+  background-color: #FFFFFF;
+
+  padding: 3% 7%;
+
+}
+.socialIcon{
+  margin: 0 20px;
+  padding-bottom: 20px;
+color: #0455C0;
+
+}
+strong{
+  color: #9FBF30;
+}
+.expHead{
+  margin: 10% 0;
+}
+h3{
+  font-size: 16px;
+}
+.thirdSection{
+margin: 5%;
+}
+.skillHr{
+  border: 4px solid #0455C0;
+  border-radius: 5px;
+}
+.exp{
+  margin: 6% 0;
+  font-size: 25px;
+}
+.skillBtn{
+  margin: 3% 0;
+}
+.myskillBtn{
+  margin: 0 4% 0 0;
+}
+.sectionFour{
+  background-color:#0455C0;
+  color: #FFFFFF;
+}
+.content{
+  padding: 6%;
+}
+.userIcon{
+  width: 60px;
+  height: 60px;
+}
+.review{
+  margin: auto;
+}
+.userName{
+  font-size: 24px;
+}
+.userText{
+  font-size: 30px;
+  width: 60%;
+}
+.clientBox{
+  margin: 4%;
+}
+.footer h3{
+  color: #0455C0;
+}
+.attriLinks{
+  font-size: 8px;
+}
